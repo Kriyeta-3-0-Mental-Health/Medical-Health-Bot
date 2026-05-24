@@ -1,6 +1,6 @@
 # Medical-Health-Bot
 
-# How to run?
+## How to run?
 
 ### STEPS:
 
